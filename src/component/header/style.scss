@@ -1,0 +1,29 @@
+
+header{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding: 0px 50px 0px 0px;
+    ul{
+        list-style: none;
+        display: flex;
+gap: 43px;
+li{
+    
+    a{
+        font-family: Heebo;
+font-size: 28px;
+font-weight: 500;
+line-height: 29.38px;
+text-align: right;
+color: #000000;
+text-decoration: none;
+    }
+    .blog{
+        color: #FF6464;
+    }
+}
+    }
+}

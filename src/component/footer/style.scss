@@ -1,0 +1,31 @@
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    .icon{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 50px;
+        i{
+            font-size: 37px;
+            color: #21243D;
+        }
+    }
+    .text{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        h2{
+            font-family: Heebo;
+font-size: 14px;
+font-weight: 400;
+line-height: 20.56px;
+text-align: center;
+color: #21243D;
+        }
+    }
+}
